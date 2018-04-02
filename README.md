@@ -2,13 +2,14 @@
 I am a self taught person with a high sense of responsibility that is looking for learning opportunities as part of a software development team. I want to learn everything you can teach me so do not hesitate on giving me an opportunity.
 ## Education
 Bachelor’s of Science, Mechatronics Engineering  
-The Center for Technical and Higher Education (CETYS University), Summer 2016
+The Center for Technical and Higher Education (CETYS University) Tijuana Mexico, Summer 2016
 ## Technical Skills
 * Html
 * Javascript
 * AngularJs
-* NodeJs
+* Angular
 * Ionic Framework
+* NodeJs
 * Electron
 * Php
 * Slim Framework
@@ -21,7 +22,7 @@ The Center for Technical and Higher Education (CETYS University), Summer 2016
 ## Relevant Work Experience
 * **Software Developer** at Southwest Manufacturing Services  
 August 2017 - Ongoing, Tijuana MX  
-By proposing and implementing new web and mobile applications we have the opportunity to positively impact day to day processes of our manufacturing plant. This included web solutions, iOS & macOS apps. Backend in done on Ruby on Rails.
+By proposing and implementing new web and mobile applications we have the opportunity to positively impact day to day processes of our manufacturing plant. This included web solutions, iOS & macOS apps. Backend done on Ruby on Rails.
 
 * **Sr. Developer Analyst** at Hubbell Lighting  
 July 2016 - August 2017, Tijuana MX  
