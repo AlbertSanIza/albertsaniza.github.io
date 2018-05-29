@@ -41,6 +41,7 @@ February 2014 - March 2015, Tijuana MX
 I developed and provided support by creating and updating 2D & 3D technical CAD drawings using Solid Edge, SolidWorks and AutoCad.
 
 ## Personal Achievements
+* Winner - WWDC18 Scholarship (April 2018, Apple Inc.)
 * Winner - WWDC17 Scholarship (April 2017, Apple Inc.)
 * Winner - Autodesk App Store Forge Hackathon 2016 (November 2016, Autodesk)
 * Judges Favourite - Proximity Hackathon (August 2016, Proximi.io & Ionic)
