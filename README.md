@@ -3,27 +3,28 @@ I am a self taught software developer with a robotics background. I consider mys
 ## Education
 Bachelor’s of Science, Mechatronics Engineering  
 The Center for Technical and Higher Education (CETYS University) Tijuana Mexico, Summer 2016
+Full Scholarship
 ## Technical Skills
-**Web:** HTML, CSS, Javascript, Typescript, AngularJs, Angular, React, jQuery, Bootstrap, Polymer.
+**Web:** HTML, CSS, Javascript, React, AngularJs, jQuery, Bootstrap.
 
-**Backend & DB:** PHP, Node.js, Firebase, MySQL, Microsoft SQL.
+**Backend & DB:** NodeJs, .NET Core, Firebase, MySQL, Microsoft SQL, MongoDB, Docker.
 
-**Mobile:** Ionic Framework, Swift iOS.
+**Mobile:** Ionic Framework.
 
-**Desktop:** Swift macOS, Electron, Nwjs, Chrome Apps.
+**Desktop:** Electron, Nwjs, Chrome Apps.
 
-**Tools:** Git, NPM, Bower, Gulp, Atom, Visual Studio Code, Xcode, Windows, macOS, Ubuntu.
+**Tools:** Git, NPM, Gulp, Atom, Visual Studio Code, Xcode, Windows, MacOS.
 
-**Extras:** Google Apps Script, Arduino, Raspberry Pi, Bluetooth, Serial, PLC, TCP/UDP.
+**Extras:** Google Apps Script, Arduino, Raspberry Pi, Bluetooth, Serial COM, PLC, TCP/UDP.
 
 ## Relevant Work Experience
 * **Software Developer** at Southwest Manufacturing Services  
 August 2017 - Ongoing, Tijuana MX  
-By proposing, creating and implementing some new web and mobile applications we have the opportunity to positively impact day to day processes of our manufacturing plant. This solutions more often involved process innovation and out of the box thinking. Of course this can only be achieved by using the latest web technologies.
+I am involved on the R&D process to find out and test the newest technologies, by creating proof of concept projects for the next big upgrade of the software. This may include developing the environment setup, do web and back end implementations, templates and mobile implementation as well.
 
 * **Sr. Developer Analyst** at Hubbell Lighting  
 July 2016 - August 2017, Tijuana MX  
-After a few months of good results a software development department was created to meet the needs of the company. More projects arrived and our most successful ones were exported to all our US and MX facilities.
+By proposing, creating and implementing some new web and mobile applications we had the opportunity to positively impact day to day processes of our manufacturing plant. This solutions more often involved process innovation and out of the box thinking. Of course this can only be achieved by using the latest web technologies.
 
 * **Information Systems Analyst** at Hubbell Lighting  
 September 2015 - July 2016, Tijuana MX  
