@@ -18,7 +18,7 @@ Full Scholarship
 **Extras:** Google Apps Script, Arduino, Raspberry Pi, Bluetooth, Serial COM, PLC, TCP/UDP.
 
 ## Relevant Work Experience
-* **Software Developer** at Southwest Manufacturing Services  
+* **Jr. Software Developer** at Southwest Manufacturing Services  
 August 2017 - Ongoing, Tijuana MX  
 I am involved on the R&D process to find out and test the newest technologies, by creating proof of concept projects for the next big upgrade of the software. This may include developing the environment setup, do web and back end implementations, templates and mobile implementation as well.
 
